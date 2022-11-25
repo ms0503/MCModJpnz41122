@@ -1,0 +1,61 @@
+// Fantastic Lib
+
+// チャット類
+fantasticlib.error.badItemMeta=不正なメタ値: %s
+fantasticlib.error.badItemName=不正なアイテム名: %s
+fantasticlib.error.itemForFilterNotFound=アイテムフィルター用アイテムが見つかりません: %s
+fantasticlib.error.malformedAMod=不正な属性文字列: %s
+fantasticlib.error.notEnoughItemFilterArgs=アイテムフィルターのオーグメントが足りません: %s
+fantasticlib.error.notEnoughPotionArgs=ポーション効果のオーグメントが足りません(最低でも1以上): %s
+fantasticlib.error.playerEntityNotFound=プレイヤーエンティティが見つかりません: %s
+fantasticlib.error.potionAmpNotNumber=効果の値が数字ではありません: %s
+fantasticlib.error.potionDurNotNumber=持続時間が数字ではありません: %s
+fantasticlib.error.potionIntrvNotNumber=ポーションの間隔が数字ではありません: %s
+fantasticlib.error.potionNotFound=ポーションのResourceLocationが見つかりません: %s
+fantasticlib.error.tooManyItemFilterArgs=アイテムフィルターのオーグメントが多すぎます: %s
+fantasticlib.error.tooManyNBTValues=各NBTタグには1つの値しか設定出来ません!アイテムフィルターのエラー: %s
+fantasticlib.error.tooManyPotionArgs=ポーション効果のオーグメントが多すぎます(最高でも3以下): %s
+
+// コンフィグ
+fantasticlib.config.entityRenderFixer.tooltip=FILLSCREEN 有効の場合、各エンティティのレンダリング後に特定のOpenGL設定をリセットするコードを実行します\n\nグラフィックの問題を解決するために必要な場合のみ使用します\n \n
+fantasticlib.config.entityRenderFixer=Entity Render Fixerを使用
+fantasticlib.config.guiSettings=GUI設定
+fantasticlib.config.inventoryDesyncFixer.tooltip=FILLSCREEN 有効の場合、サーバーサイドでインベントリが変更された時にインベントリをクライアントに同期させるためのコードが実行されます\n \n
+fantasticlib.config.inventoryDesyncFixer=Inventory Desync Fixerを使用
+fantasticlib.config.negativeAttributes.tooltip=FILLSCREEN 色の描画のために持つ事が好ましくない属性のリスト\n \n
+fantasticlib.config.negativeAttributes=ネガティブ属性
+fantasticlib.config.panButton.tooltip=FILLSCREEN パン可能なGUIで、どのマウスボタンを押せばパン出来るか(ホールド&ドラッグ)\n \n
+fantasticlib.config.panButton=パン(マウスボタン)
+fantasticlib.config.perGUIScaling.tooltip=FILLSCREEN 各適用GUIのスケーリング\n一度でもアクセスされた事のあるGUIは自動的にここに表示されます\n \n
+fantasticlib.config.perGUIScaling=GUI毎のスケーリング
+fantasticlib.config.previewRenderModeOverrides.tooltip=FILLSCREEN アイテムのAWスキンをプレビューする時のレンダリングモードのオーバーライド\n構文:\nSlotting, チャンネル@モード, チャンネル@モード, etc\n'Slotting'の有効な値はconfig/fantasticlib/reference/slottings.txtにあります\n有効なチャンネルとモードはサーバー上のAWスキンに依存します(サーバー管理者に確認して下さい)\n例: Tiamat Inventoryがインストールされているサーバーで有効なショルダースキンがある場合...\nTiamat Shoulders, ShoulderL@On, ShoulderR@On, ShoulderLControl@On, ShoulderRControl@On\n \n
+fantasticlib.config.previewRenderModeOverrides=Preview Render Mode Overrides
+fantasticlib.config.rayBlockFilter.tooltip=FILLSCREEN 構文:\nドメイン:名前, 透過\n\n例:\nminecraft:glass, true\n \n
+fantasticlib.config.rayBlockFilter=ブロックフィルター
+fantasticlib.config.rayBlockSuperclassFilter.tooltip=FILLSCREEN 構文:\n完全修飾クラス名, 透過\n\n例:\nnet.minecraft.block.BlockStairs, false\n \n
+fantasticlib.config.rayBlockSuperclassFilter=ブロックスーパークラスフィルター(高度)
+fantasticlib.config.rayBlockstateFilter.tooltip=FILLSCREEN 構文:\nドメイン:名前:メタ値, 透過\n\n例:\nminecraft:stone:0, false\n \n
+fantasticlib.config.rayBlockstateFilter=ブロック状態フィルター
+fantasticlib.config.rayMaterialFilter.tooltip=FILLSCREEN 構文:\nマテリアル, 透過\n\n例:\nair, true\n\nバニラのマテリアル:\nair, grass, ground, wood, rock, iron, anvil, water, lava, leaves, plants, vine, sponge, cloth, fire, sand, circuits, carpet, glass, redstone_light, tnt, coral, ice, packed_ice, snow, crafted_snow, cactus, clay, gourd, dragon_egg, portal, cake, web, piston, barrier, structure_void\n \n
+fantasticlib.config.rayMaterialFilter=マテリアルフィルター
+fantasticlib.config.raytraceSettings=レイトレース設定
+fantasticlib.config.tooltipScaling.tooltip=FILLSCREEN ツールチップの表示倍率\n \n
+fantasticlib.config.tooltipScaling=ツールチップスケーリング
+fantasticlib.config.zoomFocusMouse.tooltip=FILLSCREEN ズーム可能なGUIにおいて、ズームイン/アウトがマウス位置にフォーカスされるかどうか(フォーカスしない場合、代わりにビューの中心が使われます)\nどちらのモードがデフォルト『でない』かはCtrlキーを押しながらズームする事で確認出来ます。\n \n
+fantasticlib.config.zoomFocusMouse=デフォルトのズームフォーカス
+fantasticlib.config.zoomRate.tooltip=FILLSCREEN ズーム可能なビューのズーム速度\n \n
+fantasticlib.config.zoomRate=拡大率
+fantasticlib.config.zoomResetButton.tooltip=FILLSCREEN ズーム可能なGUIでどのマウスボタンを押せばズームレベルがリセットされるか(クリック)\n \n
+fantasticlib.config.zoomResetButton=ズームリセット(マウスボタン)
+
+// コマンド
+fantasticlib.cmd.rendermodes.get.comment=%sは%2$sのために%1$sに設定されます
+fantasticlib.cmd.rendermodes.noneSet.comment=%sにレンダリングモードは設定されていません
+fantasticlib.cmd.rendermodes.notSet.comment=%sはまだ%sに設定されていません
+fantasticlib.cmd.uptime=%s日%s時間%s分%s秒
+fantasticlib.cmd.uptime.noserver=§c実行中のサーバーは検出されませんでした
+
+// その他
+fantasticlib.literal=%s
+fantasticlib.success=§aSUCCESS
+

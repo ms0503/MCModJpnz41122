@@ -1,0 +1,9 @@
+// CoFH World
+
+// チャット類
+cofhworld.list.usage=CoFHWorldの全ての機能のリスト
+cofhworld.list=--- Loaded CoFHWorld features page %d of %d ---
+cofhworld.reload.failed=コンフィグのリロードに失敗しました。ログを確認して下さい。
+cofhworld.reload.successful=コンフィグがリロードされました。
+cofhworld.reload.usage=CoFHWorldのコンフィグをリロードします。
+

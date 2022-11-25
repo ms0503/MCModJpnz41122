@@ -2,6 +2,9 @@
 1.12.2向けの各MODの公式日本語訳や英語表記をベースに改良や翻訳漏れの修正などを行ったリソースパックです。
 ## 対応MOD
 - [Chocolate Quest Repoured](https://www.curseforge.com/minecraft/mc-mods/cqrepoured/)
+- [CoFh World](https://www.curseforge.com/minecraft/mc-mods/cofh-world/)
+- [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/)
+- [Fantastic Lib](https://www.curseforge.com/minecraft/mc-mods/fantastic-lib/)
 ## ライセンス
 This project is licensed under [GNU Free Document License, Version 1.3](https://www.gnu.org/licenses/fdl-1.3.html).
 ## 制作者

@@ -1,0 +1,28 @@
+// Crafting Tweaks
+
+// キーバインド
+key.categories.craftingtweaks=Crafting Tweaks
+key.craftingtweaks.balance=均等配分
+key.craftingtweaks.clear=クリア
+key.craftingtweaks.compressAll=全て圧縮
+key.craftingtweaks.compressOne=アイテムを圧縮
+key.craftingtweaks.compressStack=スタックを圧縮
+key.craftingtweaks.decompressAll=全て伸長
+key.craftingtweaks.decompressOne=アイテムを伸長
+key.craftingtweaks.decompressStack=スタックを伸長
+key.craftingtweaks.force_clear=強制クリア
+key.craftingtweaks.refill_last=最後の物を補充
+key.craftingtweaks.refill_last_stack=最後の物を補充(スタック)
+key.craftingtweaks.rotat_counter_clockwise=逆回転
+key.craftingtweaks.rotate=回転
+key.craftingtweaks.spread=展開
+key.craftingtweaks.toggleButtons=トグル
+
+// 説明文
+tooltip.craftingtweaks.balance=均等配分
+tooltip.craftingtweaks.clear=クリア
+tooltip.craftingtweaks.forceClear=強制クリア
+tooltip.craftingtweaks.forceClearInfo=インベントリが満タンの場合地面に落とします。
+tooltip.craftingtweaks.rotate=回転
+tooltip.craftingtweaks.spread=展開
+
