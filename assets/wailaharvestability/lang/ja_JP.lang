@@ -1,0 +1,33 @@
+// Waila Harvestability
+
+// コンフィグ
+option.harvestability.currentlyharvestable.sneakingonly=スニーク時のみ: 採掘可能状況の表示
+option.harvestability.currentlyharvestable=採掘可能状況の表示
+option.harvestability.effectivetool.sneakingonly=スニーク時のみ: 適正ツールの表示
+option.harvestability.effectivetool=適正ツールの表示
+option.harvestability.harvestlevel.sneakingonly=スニーク時のみ: 採掘レベルの表示
+option.harvestability.harvestlevel=採掘レベルの表示
+option.harvestability.harvestlevelnum.sneakingonly=スニーク時のみ: 採掘レベル値
+option.harvestability.harvestlevelnum=採掘レベル値
+option.harvestability.minimal=最小限モード
+option.harvestability.oresonly=鉱石のみ
+option.harvestability.shearability.sneakingonly=スニーク時のみ: ハサミで回収可能かの表示
+option.harvestability.shearability=ハサミで回収可能かの表示
+option.harvestability.silktouchability.sneakingonly=スニーク時のみ: シルクタッチで回収可能かの表示
+option.harvestability.silktouchability=シルクタッチで回収可能かの表示
+option.harvestability.toolrequiredonly=ツール必須時のみ
+option.harvestability.unharvestableonly=採掘不可能時のみ
+
+// HUD
+wailaharvestability.currentlyharvestable= 採掘可能状況
+wailaharvestability.effectivetool=適正ツール : 
+wailaharvestability.harvestable= 採掘可能
+wailaharvestability.harvestlevel=採掘レベル : 
+wailaharvestability.toolclass.axe=斧
+wailaharvestability.toolclass.chisel=ノミ
+wailaharvestability.toolclass.crowbar=バール
+wailaharvestability.toolclass.pickaxe=ツルハシ
+wailaharvestability.toolclass.scoop=杓
+wailaharvestability.toolclass.shovel=シャベル
+wailaharvestability.toolclass.sword=剣
+

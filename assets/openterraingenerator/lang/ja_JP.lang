@@ -1,0 +1,32 @@
+// Open Terrain Generator (OTG)
+
+// ブロック名
+tile.portalotg.name=デフォルトOTGポータルブロック
+tile.portalotg_beige.name=薄橙色のOTGポータルブロック
+tile.portalotg_black.name=黒色のOTGポータルブロック
+tile.portalotg_blue.name=青色のOTGポータルブロック
+tile.portalotg_crystalblue.name=クリスタルブルーのOTGポータルブロック
+tile.portalotg_darkblue.name=紺色のOTGポータルブロック
+tile.portalotg_darkgreen.name=深緑色のOTGポータルブロック
+tile.portalotg_darkred.name=緋色のOTGポータルブロック
+tile.portalotg_emerald.name=エメラルドのOTGポータルブロック
+tile.portalotg_flame.name=炎のOTGポータルブロック
+tile.portalotg_gold.name=金のOTGポータルブロック
+tile.portalotg_green.name=緑色のOTGポータルブロック
+tile.portalotg_grey.name=灰色のOTGポータルブロック
+tile.portalotg_lightblue.name=空色のOTGポータルブロック
+tile.portalotg_lightgreen.name=黄緑色のOTGポータルブロック
+tile.portalotg_orange.name=橙色のOTGポータルブロック
+tile.portalotg_pink.name=桃色のOTGポータルブロック
+tile.portalotg_red.name=赤色のOTGポータルブロック
+tile.portalotg_white.name=白色のOTGポータルブロック
+tile.portalotg_yellow.name=黄色のOTGポータルブロック
+
+// キーバインド
+key.otg.category=OpenTerrainGenerator
+key.otghud.desc=OTG ゲーム内メニュー
+
+// その他
+generator.OTG.info=これを使わないで下さい。代わりに、OTGメニューを使って下さい
+generator.OTG=Open Terrain Generator
+

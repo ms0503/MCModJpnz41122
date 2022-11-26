@@ -1,0 +1,91 @@
+// Hwyla
+
+// チャット類
+client.msg.norecipe=レシピが見つかりませんでした。
+client.msg.nousage=使い方が見つかりませんでした。
+
+// キーバインド
+nei.options.keys.showenchant=エンチャント値の表示
+waila.keybind.liquid=液体の表示
+waila.keybind.recipe=レシピの表示
+waila.keybind.usage=使い方の表示
+waila.keybind.wailaconfig=コンフィグ画面
+waila.keybind.wailadisplay=表示/非表示
+
+// コンフィグ
+cfg.theme.dark=ダーク
+cfg.theme.vanilla=バニラ
+choice.format.background=背景色
+choice.format.blockname=ブロック名
+choice.format.entityname=エンティティ名
+choice.format.fluidname=液体名
+choice.format.font=文字色
+choice.format.gradientbottom=グラデーション色(下)
+choice.format.gradienttop=グラデーション色(上)
+choice.format.metadata=メタデータ
+choice.format.modname=MOD名
+choice.hidefromdebug=デバッグモード表示中非表示
+choice.hidefromlist=プレイヤーリスト表示中非表示
+choice.shifttoggledblock=スニーク時ブロックトグル
+choice.shifttoggledents=スニーク時エンティティトグル
+choice.showhideidmeta=ID:メタデータ
+choice.showhidewaila=Waila
+choice.showitem=ブロック表示
+choice.showliquids=液体
+choice.toggledmaintained=Toggled/Maintained
+choice.tts=ナレーション
+option.capability.energyinfo=エネルギーのデータを表示
+option.capability.tankinfo=タンクのデータを表示
+option.general.registry=レジストリーデータを表示
+option.general.showcrop=種の成長段階を表示
+option.general.showents=エンティティを表示
+option.general.showhp=エンティティの体力を表示
+option.vanilla.comparator=コンパレーターのモードを表示
+option.vanilla.furnacedisplay=かまどの進捗を表示
+option.vanilla.growthvalue=成長段階を表示
+option.vanilla.jukebox=ジュークボックスのレコードを表示
+option.vanilla.leverstate=レバーの状態を表示
+option.vanilla.redstone=レッドストーンの信号強度を表示
+option.vanilla.repeater=リピーターの遅延を表示
+option.vanilla.silverfish=シルバーフィッシュを非表示
+option.vanilla.spawntype=スポナータイプを表示
+screen.button.back=戻る
+screen.button.cancel=キャンセル
+screen.button.configureaspect=位置調整...
+screen.button.configureformat=フォーマット...
+screen.button.default=デフォルト
+screen.button.exporttheme=テーマをエクスポート
+screen.button.hidden=非表示
+screen.button.maintained=Maintained
+screen.button.modules=モジュール
+screen.button.no=No
+screen.button.ok=OK
+screen.button.toggled=Toggled
+screen.button.visible=表示
+screen.button.waila=Waila
+screen.button.yes=Yes
+screen.hwyla.warning=§c警告:§r あなたはHwylaと呼ばれるWailaのフォークを使用しています。スクリーンの左上にあるボタンを押すと(ほとんど完全な)変更箇所のリストを見る事が出来ます。
+screen.label.dragtuto=HUDをドラッグして位置を決めます。
+screen.label.scale=スケール
+
+// HUD
+hud.item.melonstem=スイカの種
+hud.item.pumpkinstem=カボチャの種
+hud.msg.career=職業: %s
+hud.msg.comparator=コンパレーターモード
+hud.msg.delay=遅延
+hud.msg.demands=需要
+hud.msg.empty=<空>
+hud.msg.growth.value=%.0f %%
+hud.msg.growth=成長
+hud.msg.health=体力
+hud.msg.mature=最大
+hud.msg.off=OFF
+hud.msg.offers=オファー
+hud.msg.on=ON
+hud.msg.power=信号強度
+hud.msg.record=レコード
+hud.msg.state=状態
+hud.msg.substractor=減算モード
+hud.msg.toomuch=Too many...
+
