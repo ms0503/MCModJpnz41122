@@ -2,6 +2,7 @@
 1.12.2向けの各MODの公式日本語訳や英語表記をベースに改良や翻訳漏れの修正などを行ったリソースパックです。
 ## 対応MOD
 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/)
+- [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft/)
 - [Chocolate Quest Repoured](https://www.curseforge.com/minecraft/mc-mods/cqrepoured/)
 - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world/)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/)
